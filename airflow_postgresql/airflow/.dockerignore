@@ -1,6 +1,8 @@
 **/.classpath
 **/.dockerignore
 **/.env
+**/airflow
+**/airflow/*
 **/.git
 **/.gitignore
 **/.project
